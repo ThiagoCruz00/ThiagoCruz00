@@ -5,8 +5,11 @@
 
 
 👾 Explorando novas tecnologias e desenvolvendo web site.<br>
+
 🎓 Estudando Python,JS,Html e CSS.
+
 🧙🏼 Em busca da primeira oportunidade de trabalho
+
 ♟ Aprendendo mais sobre Front-end,Back-end e Automações
 
 ## 🌐 Socials:
