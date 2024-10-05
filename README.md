@@ -1,5 +1,5 @@
 # 📝 About Me:
-<br>👾 Explorando novas tecnologias e desenvolvendo web site.<br><br>🎓 Estudando Python, JS , Html , CSS e REACT.<br><br>🧙🏼 Em busca da primeira oportunidade de trabalho<br><br>♟ Aprendendo mais sobre Front-end,Back-end e Automações
+<br>👾 Explorando novas tecnologias e desenvolvendo web site.<br><br>🎓 Estudando Python, JS , Html , CSS e REACT.<br><br>🧙🏼 Em busca da primeira oportunidade de trabalho<br><br>♟ Aprendendo mais sobre Front-end e Back-end
 
 
 ## 🌐 Socials:
