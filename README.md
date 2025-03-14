@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👾 Explorando novas tecnologias e desenvolvendo websites.<br><br>🎓 Cursando Ciência da Computação na USJT e estudando Python, JavaScript, HTML e CSS.<br><br>🧙🏼 Aprendiz de Logística na Archer Daniels Midland Company.<br><br>♟ Aprendendo mais sobre Front-end e me aventurando no Back-end.
+<br>👾 Explorando novas tecnologias e desenvolvendo websites.<br><br>🎓 Cursando Ciência da Computação na USJT e estudando Python, JavaScript, Java, HTML e CSS.<br><br>🧙🏼 Aprendiz de Logística na Archer Daniels Midland Company.<br><br>♟ Aprendendo mais sobre Front-end e me aventurando no Back-end.
 
 
 ## 🌐 Socials:
