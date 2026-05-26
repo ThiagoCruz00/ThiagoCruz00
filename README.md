@@ -1,6 +1,21 @@
-# About Me:
-<h1 align="center">👋 Olá, eu sou o Thiago</h1><br><br><p align="center"><br>🚀 Logistics Apprentice | 💻 Computer Science Student | ⚡ Process Automation & Front-End Developer<br></p><br><br>Sou apaixonado por **tecnologia, automação e inovação**, atualmente atuando como **Aprendiz em Logística** e cursando **Ciência da Computação**. Tenho experiência com **análise de dados, melhoria contínua e otimização de processos**, unindo visão corporativa com tecnologia para criar soluções eficientes.<br><br>💻 **Tecnologias & Interesses:**  <br>**Python • Java • JavaScript • React • HTML • CSS • SQL • Power Platform • Power Automate • Excel • Data Analysis • Process Automation • Networks • Software Modeling • Git/GitHub**<br><br>🎯 **Foco atual:** Desenvolvimento de Software, Automação de Processos, Análise de Dados, Banco de Dados e Logística Inteligente.<br><br>📈 *Always learning, building and evolving.*
+<h1 align="center">👋 Olá, eu sou o Thiago</h1>
+<br><br>
 
+<p align="center">
+🚀 Logistics Apprentice | 💻 Computer Science Student | ⚡ Process Automation & Front-End Developer
+</p>
+
+<br><br>
+Sou apaixonado por <strong>tecnologia, automação e inovação</strong>, atualmente atuando como <strong>Aprendiz em Logística</strong> e cursando <strong>Ciência da Computação</strong>. Tenho experiência com <strong>análise de dados, melhoria contínua e otimização de processos</strong>, unindo visão corporativa com tecnologia para criar soluções eficientes.
+<br><br>
+
+💻 <strong>Tecnologias & Interesses:</strong>  
+<strong>Python • Java • JavaScript • React • HTML • CSS • SQL • Power Platform • Power Automate • Excel • Data Analysis • Process Automation • Networks • Software Modeling • Git/GitHub</strong>
+<br><br>
+
+🎯 <strong>Foco atual:</strong> Desenvolvimento de Software, Automação de Processos, Análise de Dados, Banco de Dados e Logística Inteligente.
+<br><br>
+📈 <em>Always learning, building and evolving.</em>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiago-cruz-403212270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thiagohfs.cruz@gmail.com) 
