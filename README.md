@@ -2,10 +2,10 @@
 <br><br>
 
 <p align="center">
-🚀 Logistics Apprentice | 💻 Computer Science Student | ⚡ Process Automation & Front-End Developer
+🚀 Supply Chain Intern | 💻 Computer Science Student | ⚡ Process Automation & Front-End Developer
 </p>
 <br><br>
-Sou apaixonado por <strong>tecnologia, automação e inovação</strong>, atualmente atuando como <strong>Aprendiz em Logística</strong> e cursando <strong>Ciência da Computação</strong>. Tenho experiência com <strong>análise de dados, melhoria contínua e otimização de processos</strong>, unindo visão corporativa com tecnologia para criar soluções eficientes.
+Sou apaixonado por <strong>tecnologia, automação e inovação</strong>, atualmente atuando como <strong>Estágiario de Supply Chain</strong> e cursando <strong>Ciência da Computação</strong>. Tenho experiência com <strong>análise de dados, melhoria contínua e otimização de processos</strong>, unindo visão corporativa com tecnologia para criar soluções eficientes.
 <br><br>
 
 💻 <strong>Tecnologias & Interesses:</strong>  
